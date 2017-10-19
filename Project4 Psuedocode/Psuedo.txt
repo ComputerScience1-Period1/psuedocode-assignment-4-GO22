@@ -10,24 +10,28 @@ Each player will do the same if the card does not suit their needs for a 4 of a 
 Once one player has a 4 of a kind he or she will reach for a spoon, after that the rest of the players will scramble to get one.
 If a player does not acquire a spoon, that person will be out.
 Then game will contiue until there is only one remaining, and that person will be the winner.\
-
-
-The dealer will places one less spoon than the amount of players in a circle at the center of a table;
-	{The Dealer will then distribute 4 cards to each player;
-		Each player will check their card values
-		The dealer will then pick up a fifth card
-		If a card in his deck does not meets a value he or she needs
-			he or she can remove the one that is less suitable to the}
-		The dealer will discard the card to left and another player will pick it up
+	{
+		A deck of cards is place on a table.
+			That deck will be shuffled
+			}
+		{ The dealer will then grab some spoons
+				The dealer will places one less spoon than the amount of players in a circle at the center of a table;
+		{The Dealer will then distribute 4 cards to each player;
+				Each player will check their card values
+			The dealer will then pick up a fifth card
+				Else a card in his deck does not meets a value he or she needs
+			he or she can remove the one that is less suitable
+			}
+		The dealer will discard the card to left and another player will pick it up.
 			{This player will do the same check the card value is one they need
-				if the player needs the card; they will remove a card they do not need
-					if the player does not need the card; they will continue to pass it on to the left}
+				Else the player needs the card; they will remove a card they do not need
+					Else the player does not need the card; they will continue to pass it on to the left}
 	{This cycle will repeat throughout all the players;
 		The dealer will continue to draw cards from the deck;
 			This cycle will conintue until one person has four of the same card values;
 				Then that player will grab a spoon.
 				afterwards the players will scramble to get a spoon
-					If a player does not grab a spoon; that person is out of the game.
+					Else a player does not grab a spoon; that person is out of the game.
 						Once the player is removed from the game a spoon will also be removed.
 										This will repeat until there is only one person remaining;
 }	
