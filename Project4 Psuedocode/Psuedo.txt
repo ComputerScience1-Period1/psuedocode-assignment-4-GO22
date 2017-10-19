@@ -19,7 +19,7 @@ Then game will contiue until there is only one remaining, and that person will b
 		{The Dealer will then distribute 4 cards to each player;
 				Each player will check their card values
 			The dealer will then pick up a fifth card
-				Else a card in his deck does not meets a value he or she needs
+				IF a card in his deck does not meets a value he or she needs:
 			he or she can remove the one that is less suitable
 			}
 		The dealer will discard the card to left and another player will pick it up.
