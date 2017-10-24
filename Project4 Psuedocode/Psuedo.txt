@@ -11,29 +11,29 @@ Once one player has a 4 of a kind he or she will reach for a spoon, after that t
 If a player does not acquire a spoon, that person will be out.
 Then game will contiue until there is only one remaining, and that person will be the winner.\
 	{
-		A deck of cards is place on a table.
+		A deck of cards is place on a table.		// Doesn't need to be placed
 			That deck will be shuffled
 			}
-		{ The dealer will then grab some spoons
+		{ The dealer will then grab some spoons	// Dealer doesn't need to grab spoons, rather spoons are set automatically
 				The dealer will places one less spoon than the amount of players in a circle at the center of a table;
 		{The Dealer will then distribute 4 cards to each player;
 				Each player will check their card values
 			The dealer will then pick up a fifth card
-				Else a card in his deck does not meets a value he or she needs
-			he or she can remove the one that is less suitable
+				Else a card in his deck does not meets a value he or she needs	// Else what? What would happen?
+			he or she can remove the one that is less suitable	// Define "less suitable"
 			}
 		The dealer will discard the card to left and another player will pick it up.
 			{This player will do the same check the card value is one they need
-				Else the player needs the card; they will remove a card they do not need
+				Else the player needs the card; they will remove a card they do not need	// Define "do not need"
 					Else the player does not need the card; they will continue to pass it on to the left}
-	{This cycle will repeat throughout all the players;
-		The dealer will continue to draw cards from the deck;
-			This cycle will conintue until one person has four of the same card values;
+	{This cycle will repeat throughout all the players;	// Seems more guideline than code, make a loop/"cycle"
+		The dealer will continue to draw cards from the deck;	// Again, more guideline than code
+			This cycle will conintue until one person has four of the same card values;	// If player has 4 matches...
 				Then that player will grab a spoon.
 				afterwards the players will scramble to get a spoon
-					Else a player does not grab a spoon; that person is out of the game.
-						Once the player is removed from the game a spoon will also be removed.
+					Else a player does not grab a spoon; that person is out of the game.	// No else, but If
+	// Work on your spacing, dude, this is kinda hard		Once the player is removed from the game a spoon will also be removed.	// Don't need, already stated at the top. Once the round ends, the loop will reset and set values accordingly
 										This will repeat until there is only one person remaining;
-}	
-	They are considered the winner;
+}		
+	They are considered the winner;		// If there is 1 spoon in a match and If one person takes a spoon...
 Repeat this as many times you want;
